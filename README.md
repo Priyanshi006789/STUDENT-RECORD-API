@@ -38,7 +38,9 @@ STUDENT-RECORD/
 ├─ server.js
 └─ .env
 
----
+Clone the repository
+
+git clone https://github.com/Priyanshi006789/STUDENT-RECORD-API/edit/main/README.md cd STUDENT-RECORD
 
 ## 📦 Installation & Setup
 
